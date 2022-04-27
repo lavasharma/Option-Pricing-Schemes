@@ -1,5 +1,5 @@
 # Option-Pricing-Schemes
-Pricing European Options using MCM and FDM schemes built using OOP C++ 
+Pricing European Options using MCM and FDM schemes built in C++ 
 
 The focus of this small project is to 
     1) Price Options (as the name says!)
