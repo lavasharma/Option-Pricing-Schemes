@@ -12,3 +12,4 @@ Monte Carlo simulation and numerical integration rely on the Feyman-Kac Theorem,
 discounted expected values of the option’s payoff function at the terminal time T, under the risk-neutral measure. Monte Carlo methods are often employed 
 in this context for the valuation of path-dependent high-dimensional options, and also for the computation of all sorts of valuation adjustments in modern 
 risk management. However, Monte Carlo methods are typically somewhat slow to converge, and particularly in the context of model calibration this can be an issue.
+
