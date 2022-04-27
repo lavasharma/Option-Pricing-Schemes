@@ -1,6 +1,12 @@
 # Option-Pricing-Schemes
 Pricing European Options using MCM and FDM schemes built using OOP C++ 
 
+The focus of this small project is to 
+    1) Price Options (as the name says!)
+    2) Build Numerical Algorithms whose output closely matches that of closed form solutions available for European Options
+    3) Learning to build "Clean" and efficient Code using rules of Object Oriented Programming based on C++
+    4) Serve a baseline to build and incorporate American Options and more complex Exoitc Options
+
 Option Pricing using Numerical Methods is typically done in three ways: Finite Difference (FD), Monte Carlo (MC) simulation and numerical integration methods.
 
 Finite Difference Schemes are generally used to discretize and approximate differential equations (using smaller intervals of variables of interest) by specifying 
