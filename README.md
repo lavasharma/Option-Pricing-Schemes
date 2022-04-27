@@ -11,6 +11,8 @@ The coding outline for the project is as follows:
 
 ![alt text](https://github.com/hobbsquant/Option-Pricing-Schemes/blob/main/Process%20Flow.JPG)
 
+The thick arrows represent a "Has A" relationship meaning that class has a particular instance of the object it is pointed from, while the normal arrows present a "Is A" relationship meaning it is derived from a Base Class. 
+
 Option Pricing using Numerical Methods is typically done in three ways: Finite Difference (FD), Monte Carlo (MC) simulation and numerical integration methods.
 
 Finite Difference Schemes are generally used to discretize and approximate differential equations (using smaller intervals of variables of interest) by specifying 
