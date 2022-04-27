@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1651079848 source:c:\users\windows 10\desktop\nyu course\fc\msfm fdm\main.cpp
+	<iostream>
+	"BSModel.h"
+	"Option.h"
+	"BSE.h"
+	<cmath>
+	"ExplicitMethod.h"
+	"BSEuropean.h"
+	"CNMethod.h"
+	"MonteCarlo.h"
+	<chrono>
+
+1651033264 source:c:\users\windows 10\desktop\nyu course\fc\msfm fdm\bseuropean.cpp
+
+1651078214 source:c:\users\windows 10\desktop\nyu course\fc\msfm fdm\bsmodel.cpp
+	"BSModel.h"
+	<cmath>
+	<iostream>
+
+1651075379 c:\users\windows 10\desktop\nyu course\fc\msfm fdm\bsmodel.h
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1651033451 source:c:\users\windows 10\desktop\nyu course\fc\msfm fdm\explicitmethod.cpp
+	"ExplicitMethod.h"
+
+1651035182 c:\users\windows 10\desktop\nyu course\fc\msfm fdm\explicitmethod.h
+	"FDMethod.h"
+
+1651035198 c:\users\windows 10\desktop\nyu course\fc\msfm fdm\fdmethod.h
+	<vector>
+	"ParabolicPDE.h"
+
+1651033355 c:\users\windows 10\desktop\nyu course\fc\msfm fdm\parabolicpde.h
+
+1651033382 source:c:\users\windows 10\desktop\nyu course\fc\msfm fdm\bse.cpp
+	"BSE.h"
+	<cmath>
+
+1651034241 c:\users\windows 10\desktop\nyu course\fc\msfm fdm\bse.h
+	"ParabolicPDE.h"
+	"BSModel.h"
+	"Option.h"
+
+1651078595 c:\users\windows 10\desktop\nyu course\fc\msfm fdm\option.h
+	"BSModel.h"
+
+1651035208 source:c:\users\windows 10\desktop\nyu course\fc\msfm fdm\fdmethod.cpp
+	"FDMethod.h"
+
+1651033356 source:c:\users\windows 10\desktop\nyu course\fc\msfm fdm\option.cpp
+	"Option.h"
+	<cmath>
+
+1651034677 c:\users\windows 10\desktop\nyu course\fc\msfm fdm\bseuropean.h
+
+1651035550 source:c:\users\windows 10\desktop\nyu course\fc\msfm fdm\implicitmethod.cpp
+	"ImplicitMethod.h"
+	"Matrix.h"
+	<cmath>
+
+1651035412 source:c:\users\windows 10\desktop\nyu course\fc\msfm fdm\matrix.cpp
+	"Matrix.h"
+	<cmath>
+
+1651035358 c:\users\windows 10\desktop\nyu course\fc\msfm fdm\matrix.h
+	<vector>
+	<iostream>
+
+1651035671 c:\users\windows 10\desktop\nyu course\fc\msfm fdm\implicitmethod.h
+	"FDMethod.h"
+	"Matrix.h"
+
+1651035673 c:\users\windows 10\desktop\nyu course\fc\msfm fdm\cnmethod.h
+	"ImplicitMethod.h"
+
+1651037720 c:\users\windows 10\desktop\nyu course\fc\msfm fdm\heatequation.h
+	"BSModel.h"
+	"Option.h"
+	"ParabolicPDE.h"
+
+1651038326 source:c:\users\windows 10\desktop\nyu course\fc\msfm fdm\heatequation.cpp
+	"HeatEquation.h"
+	<cmath>
+
+1651077690 c:\users\windows 10\desktop\nyu course\fc\msfm fdm\montecarlo.h
+	"BSModel.h"
+	"Option.h"
+	<iostream>
+	<cmath>
+
+1651078274 source:c:\users\windows 10\desktop\nyu course\fc\msfm fdm\montecarlo.cpp
+	"MonteCarlo.h"
+	"BSModel.h"
+	<cmath>
+	<iostream>
+	<cmath>
+
