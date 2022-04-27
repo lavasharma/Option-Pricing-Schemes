@@ -25,3 +25,6 @@ discounted expected values of the option’s payoff function at the terminal tim
 in this context for the valuation of path-dependent high-dimensional options, and also for the computation of all sorts of valuation adjustments in modern 
 risk management. However, Monte Carlo methods are typically somewhat slow to converge, and particularly in the context of model calibration this can be an issue.
 
+The sample output, along with times takes for various schemes to run is as follows:
+
+![alt text](https://github.com/hobbsquant/Option-Pricing-Schemes/blob/main/Output%20Option%20Pricing%20Schemes.png)
