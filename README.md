@@ -27,4 +27,4 @@ risk management. However, Monte Carlo methods are typically somewhat slow to con
 
 The sample output, along with times takes for various schemes to run is as follows:
 
-![alt text](https://github.com/hobbsquant/Option-Pricing-Schemes/blob/main/Output%20Option%20Pricing%20Schemes.png)
+![alt text](https://github.com/hobbsquant/Option-Pricing-Schemes/blob/main/Output.JPG)
